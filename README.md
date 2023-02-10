@@ -1,3 +1,3 @@
 # Hero Section
 
-The first hero section coding challenge
+The First Hero Section Coding Challenge
